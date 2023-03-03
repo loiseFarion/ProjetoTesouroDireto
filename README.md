@@ -1,1 +1,3 @@
 # ProjetoTesouroDireto
+
+O programa realiza a leitura de um arquivo .csv que contém dados referentes a 5 diferentes títulos do tesouro direto no período de 2002 a 2020, esses títulos são emitidos pelo governo federal para financiar a estrutura do governo. Com essa leitura, o código apresenta 4 variações de gráficos de forma contínua até o usuário optar pelo encerramento do programa. Sendo que um dos gráficos mostra a evolução do preço unitário de todos os títulos no período de 2002 a 2020, através de um gráfico com 5 curvas. Outro mostra um gráfico de curva com a soma da quantidade de vendas de um tipo de título no intervalo de tempo selecionado pelo usuário. Enquanto, os histogramas são sobre a quantidade e preço unitário sobre o título selecionado pelo usuário.
